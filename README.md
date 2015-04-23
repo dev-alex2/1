@@ -1,2 +1,2 @@
 # 1
-version 1 of the site
+The View portion of the site's MVC

@@ -1,0 +1,24 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot --progress --colors",
+    "build": "webpack --progress --colors"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^5.0.0",
+    "react": "^0.13.2",
+    "react-hot-loader": "^1.2.5",
+    "react-router": "^0.13.2",
+    "webpack": "^1.8.9",
+    "webpack-dev-server": "^1.8.2"
+  },
+  "dependencies": {
+    "dotenv": "^1.1.0",
+    "fs": "0.0.2"
+  }
+}

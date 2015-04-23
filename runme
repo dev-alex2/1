@@ -1,0 +1,4 @@
+[ ! -d ./node_modules ] && 
+npm install --save-dev react webpack react-router react-hot-loader \
+  webpack-dev-server babel-loader
+npm start
